@@ -21,7 +21,7 @@ const preference = {
   "socials": [
     {
       "label": "GitHub",
-      "url": "https://github.com/Jacob7179",
+      "url": "https://github.com/JacobMMU",
       "icon": "assets/icons/github.svg"
     }
   ],
