@@ -71,5 +71,6 @@ const preference = {
     "backgroundEnabled": true,
     "shape": "rounded",
     "backgroundColor": "#ffffff"
-  }
+  },
+  "showFooter": false
 };
